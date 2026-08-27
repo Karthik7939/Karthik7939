@@ -34,7 +34,6 @@ karthik:
   currently_building: Multi-agent RAG systems for docs and exams
   interested_in: [Agentic AI, RAG pipelines, AI dev tools, Autonomous SWE]
   cgpa: 9.26 / 10
-  co_author: IEEE survey on automatic code documentation generation
   fun_fact: "Debugs pipelines with Codex, reasons about them with Claude"
 ```
 
@@ -87,68 +86,109 @@ Dr. Ambedkar Institute of Technology
 
 ## 🚀 Featured Projects
 
-<details open>
-<summary><b>🤖 Qubit — Automated Question Paper Generation using Agentic AI</b></summary>
-<br/>
+<table width="100%">
+<tr>
+<td width="100%">
 
-`Python` `FastAPI` `Next.js` `LangGraph` `RAG` `FAISS` `BM25`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=3&section=header" width="100%"/>
+
+### 🤖&nbsp; Qubit
+#### Automated Question Paper Generation using Agentic AI
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
+![BM25](https://img.shields.io/badge/BM25-444444?style=flat-square)
 
 A multi-agent system that generates syllabus-specific, examination-ready question papers end to end.
 
-- 🔹 LangGraph pipeline: Syllabus → Image Descriptor → Query Construction → Topic Retrieval → Question Generator → Bloom → Validation → Answer Key
-- 🔹 Hybrid retrieval with FAISS + BM25 + Reciprocal Rank Fusion
-- 🔹 Google Drive / Classroom ingestion via OAuth
-- 🔹 Multi-modal question support — equations, tables, and images with LaTeX rendering
-- 🔹 Handwritten input via OCR (Surya OCR + VLM fallback)
-- 🔹 Human-in-the-loop approval workflow + automatic answer-key generation
+| | |
+|---|---|
+| 🔹 Multi-agent LangGraph pipeline | 🔹 Hybrid retrieval — FAISS + BM25 + RRF |
+| 🔹 Google Drive / Classroom ingestion (OAuth) | 🔹 Multi-modal questions — equations, tables, images (LaTeX) |
+| 🔹 Handwritten OCR (Surya OCR + VLM fallback) | 🔹 Human-in-the-loop approval workflow |
+| 🔹 Bloom's Taxonomy alignment | 🔹 Automatic answer-key generation |
 
-</details>
+</td>
+</tr>
+</table>
 
-<details open>
-<summary><b>📝 Automated Code Documentation Updation — Agentic AI Documentation System</b></summary>
 <br/>
 
-`Python` `FastAPI` `Next.js` `RAG` `FAISS` `BM25` `tree-sitter`
+<table width="100%">
+<tr>
+<td width="100%">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A66C2&height=3&section=header" width="100%"/>
+
+### 📝&nbsp; Automated Code Documentation Updation
+#### Agentic AI-Powered Documentation System
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
+![BM25](https://img.shields.io/badge/BM25-444444?style=flat-square)
 
 Keeps repository documentation continuously synchronized with the codebase as it evolves.
 
-- 🔹 Bootstrap vs. incremental pipeline architecture
-- 🔹 Hybrid retrieval: FAISS + BM25 + dependency-graph context via tree-sitter
-- 🔹 LLM abstraction layer — swap between local Ollama and API providers
-- 🔹 AST-diffing and semantic change detection to scope regeneration precisely
-- 🔹 Auto-generated HTML documentation sites and architecture diagrams
+| | |
+|---|---|
+| 🔹 Bootstrap vs. incremental pipeline split | 🔹 Hybrid retrieval — FAISS + BM25 + dependency graph (tree-sitter) |
+| 🔹 LLM abstraction layer (local Ollama ↔ API) | 🔹 AST-diffing & semantic change detection |
+| 🔹 Multi-agent generation workflow | 🔹 Auto-generated HTML docs & architecture diagrams |
 
-</details>
+</td>
+</tr>
+</table>
 
-<details open>
-<summary><b>🧠 MindStride — AI-Powered Student Productivity Platform</b></summary>
 <br/>
 
-`Python` `FastAPI` `Scikit-learn` `Next.js` `Supabase`
+<table width="100%">
+<tr>
+<td width="100%">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6F00&height=3&section=header" width="100%"/>
+
+### 🧠&nbsp; MindStride
+#### AI-Powered Student Productivity Platform
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black)
 
 Tracks desktop activity and turns it into productivity insight.
 
-- 🔹 TF-IDF + Logistic Regression activity classifier
-- 🔹 Educational vs. entertainment categorization
-- 🔹 Real-time activity logging and aggregation
-- 🔹 Data-driven productivity dashboards
+| | |
+|---|---|
+| 🔹 TF-IDF + Logistic Regression classifier | 🔹 Educational vs. entertainment categorization |
+| 🔹 Real-time activity logging | 🔹 Productivity aggregation & dashboards |
 
-</details>
+</td>
+</tr>
+</table>
 
-<details>
-<summary><b>🎯 UNIREX — Multi-Domain Content Recommendation Engine</b></summary>
 <br/>
+
+<table width="100%">
+<tr>
+<td width="100%">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=10B981&height=3&section=header" width="100%"/>
+
+### 🎯&nbsp; UNIREX
+#### Multi-Domain Content Recommendation Engine
 
 A recommendation engine spanning multiple content domains.
 
-</details>
-
----
-
-## 📄 Research
-
-**IEEE Survey Paper — Automatic Code Documentation Generation**
-Co-authoring a survey of ~30 studies, currently tightening comparison tables into task-specific breakdowns with standardized quantitative columns.
+</td>
+</tr>
+</table>
 
 ---
 
@@ -173,21 +213,6 @@ Co-authoring a survey of ~30 studies, currently tightening comparison tables int
 <img src="https://skillicons.dev/icons?i=mysql,supabase,git,github,vscode" />
 
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Karthik7939&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik7939&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthik7939&theme=tokyonight&hide_border=true" />
-</div>
-
-> Replace `Karthik7939` in the stat URLs above with your exact GitHub username if it differs, and drop this section if you'd rather keep the profile minimal.
 
 ---
 
