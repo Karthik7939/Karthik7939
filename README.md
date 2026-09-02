@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7C3AED,100:0A66C2&amp;height=220&amp;section=header&amp;text=Karthik%20N&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Full-Stack%20Developer%20%7C%20Agentic%20AI%20%26%20RAG%20Systems&amp;descAlignY=55&amp;descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0A66C2&height=220&section=header&text=Karthik%20N&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Agentic%20AI%20%2B%20RAG%20Systems&descAlignY=55&descSize=18" width="100%" alt="Karthik N"/>
 
 <!-- Animated typing intro -->
 <a href="https://git.io/typing-svg">
