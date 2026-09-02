@@ -34,7 +34,7 @@ karthik:
   currently_building: Multi-agent RAG systems for docs and exams
   interested_in: [Agentic AI, RAG pipelines, AI dev tools, Autonomous SWE]
   cgpa: 9.26 / 10
-  fun_fact: "Debugs pipelines with Codex, reasons about them with Claude"
+  
 ```
 
 * 🤖 Agentic AI & Multi-Agent Orchestration
