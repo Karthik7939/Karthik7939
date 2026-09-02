@@ -251,12 +251,7 @@ Actively practicing **Data Structures &amp; Algorithms** — [**View Profile →
 
 ---
 
-## 📜 Certifications
 
-- **Generative AI Landscape** — Infosys Springboard, 2026
-- **Artificial Intelligence Fundamentals** — IBM SkillsBuild
-
----
 
 ## 🔭 Currently Exploring
 
