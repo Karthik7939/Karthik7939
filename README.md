@@ -228,34 +228,8 @@ A recommendation engine spanning multiple content domains.
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Karthik7939&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=7C3AED&amp;icon_color=0A66C2&amp;count_private=true"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Karthik7939&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;ring=7C3AED&amp;fire=0A66C2"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik7939&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=7C3AED" height="165"/>
-
-<!-- Weekly / yearly activity graph (auto-updating) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthik7939&amp;theme=react-dark&amp;hide_border=true&amp;bg_color=0D1117&amp;color=7C3AED&amp;line=0A66C2&amp;point=ffffff" width="90%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<!-- Requires a one-time GitHub Action setup — see note below -->
-<img src="https://raw.githubusercontent.com/Karthik7939/Karthik7939/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-
-</div>
-
-> **To activate this:** add [`Platane/snk`](https://github.com/Platane/snk) as a GitHub Action in a repo named exactly `Karthik7939` (your profile repo). It regenerates the snake SVG daily from your real contribution graph — full copy-paste workflow below.
-
----
 
 ## 🧩 LeetCode
 
