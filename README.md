@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0A66C2&height=220&section=header&text=Karthik%20N&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Agentic%20AI%20%2B%20RAG%20Systems&descAlignY=55&descSize=18" width="100%" alt="Karthik N"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0A66C2&height=220&section=header&text=Karthik%20N&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Karthik N"/>
 <!-- Animated typing intro -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=7C3AED&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+Multi-Agent+RAG+Systems;Agentic+AI+%2B+Retrieval-Augmented+Generation;FastAPI+%2B+Next.js+%2B+LangGraph;Turning+Ideas+Into+Autonomous+Systems" alt="Typing SVG" />
