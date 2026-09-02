@@ -90,8 +90,7 @@ Dr. Ambedkar Institute of Technology
 <div align="center">
 
 <!-- Trophy showcase (live, auto-refreshes) -->
-<img src="https://github-profile-trophy.vercel.app/?username=Karthik7939&amp;theme=radical&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;column=4" width="90%"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=Karthik7939&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=4" width="90%" alt="GitHub Trophies"/>
 </div>
 
 ---
