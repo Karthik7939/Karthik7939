@@ -133,7 +133,7 @@ A multi-agent system that generates syllabus-specific, examination-ready questio
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0A66C2&amp;height=3&amp;section=header" width="100%"/>
 
-###Automated Code Documentation Updation
+### Automated Code Documentation Updation
 #### Agentic AI-Powered Documentation System
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white)
@@ -163,7 +163,7 @@ Keeps repository documentation continuously synchronized with the codebase as it
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=FF6F00&amp;height=3&amp;section=header" width="100%"/>
 
-###MindStride
+### MindStride
 #### AI-Powered Student Productivity Platform
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white)
