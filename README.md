@@ -102,7 +102,7 @@ Dr. Ambedkar Institute of Technology
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=7C3AED&amp;height=3&amp;section=header" width="100%"/>
 
-### 🤖&amp;nbsp; Qubit
+###  Qubit
 #### Automated Question Paper Generation using Agentic AI
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white)
@@ -133,7 +133,7 @@ A multi-agent system that generates syllabus-specific, examination-ready questio
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0A66C2&amp;height=3&amp;section=header" width="100%"/>
 
-### 📝&amp;nbsp; Automated Code Documentation Updation
+###Automated Code Documentation Updation
 #### Agentic AI-Powered Documentation System
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white)
@@ -163,7 +163,7 @@ Keeps repository documentation continuously synchronized with the codebase as it
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=FF6F00&amp;height=3&amp;section=header" width="100%"/>
 
-### 🧠&amp;nbsp; MindStride
+###MindStride
 #### AI-Powered Student Productivity Platform
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white)
@@ -191,7 +191,7 @@ Tracks desktop activity and turns it into productivity insight.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=10B981&amp;height=3&amp;section=header" width="100%"/>
 
-### 🎯&amp;nbsp; UNIREX
+###  UNIREX
 #### Multi-Domain Content Recommendation Engine
 
 A recommendation engine spanning multiple content domains.
