@@ -11,7 +11,7 @@
 <!-- PORTFOLIO — LIVE PREVIEW (16:9 desktop viewport, waits for animations to load) -->
 <p align="center">
   <a href="https://karthik-portfolio-six-omega.vercel.app/">
-    <img src="https://api.microlink.io/?url=https%3A%2F%2Fkarthik-portfolio-six-omega.vercel.app%2F&screenshot=true&meta=false&embed=screenshot.url&viewport.width=1440&viewport.height=810&viewport.deviceScaleFactor=1&waitForTimeout=3000&type=jpeg&overlay.browser=dark" width="800" alt="Portfolio preview — click to open"/>
+    <img src="https://image.thum.io/get/width/1200/crop/675/viewportWidth/1440/wait/5/https://karthik-portfolio-six-omega.vercel.app/" width="800" alt="Portfolio preview — click to open"/>
   </a>
 </p>
 
@@ -60,7 +60,7 @@ building: Multi-agent RAG systems
 <div align="center">
 
 <a href="https://leetcode.com/u/Karthikk_N/">
-  <img src="https://leetcard.jacoblin.cool/Karthikk_N?theme=dark&font=Fira%20Code&ext=heatmap" width="100%" alt="LeetCode stats and heatmap"/>
+  <img src="https://leetcard.jacoblin.cool/Karthikk_N?theme=dark&font=Fira%20Code&ext=heatmap" width="480" alt="LeetCode stats and heatmap"/>
 </a>
 
 </div>
